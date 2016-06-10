@@ -1,5 +1,7 @@
-dist
+dist/*
 archive
 node_modules
 *.sublime-project
 *.sublime-workspace
+src/js/vendor/jquery/*
+!src/js/vendor/jquery/dist/jquery.min.js
